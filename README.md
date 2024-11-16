@@ -23,7 +23,7 @@ To get started with Ansible, you need to have it installed on your system. You c
 pip install ansible
 ```
 
-For more detailed installation instructions, refer to the Ansible installation guide.
+For more detailed installation instructions, refer to the [Ansible installation guide](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html).
 
 ## Cheatsheet
 
